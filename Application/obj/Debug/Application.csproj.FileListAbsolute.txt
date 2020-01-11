@@ -1,0 +1,9 @@
+F:\VisualStudio\Application\Application\obj\Debug\Application.Form1.resources
+F:\VisualStudio\Application\Application\obj\Debug\Application.Properties.Resources.resources
+F:\VisualStudio\Application\Application\obj\Debug\Application.csproj.GenerateResource.cache
+F:\VisualStudio\Application\Application\bin\Debug\Application.exe.config
+F:\VisualStudio\Application\Application\bin\Debug\Application.exe
+F:\VisualStudio\Application\Application\bin\Debug\Application.pdb
+F:\VisualStudio\Application\Application\obj\Debug\Application.exe
+F:\VisualStudio\Application\Application\obj\Debug\Application.pdb
+F:\VisualStudio\Application\Application\obj\Debug\Application.csprojAssemblyReference.cache
